@@ -1,8 +1,6 @@
-# CS333 Final Project Plan
+# Inkboard
 
-**Name:** Eldon Pouliot
-**Project name:** Inkboard
-**GitHub repo link:** _paste link here_
+Eldon Pouliot
 
 ---
 
@@ -44,33 +42,8 @@
 | **Calendar** (`/calendar.html`) | Month grid with events (and to-dos that have due dates) | Click a day to add an event, click an event to edit, delete, or link it |
 
 **Sketches** (draw these on paper and paste photos into the Moodle copy):
-
-```
-BOARD EDITOR
-+--------------------------------------------------------------+
-| Inkboard   [Boards] [To-dos] [Calendar]                      |
-+--------------------------------------------------------------+
-| Title: [Lab 8 notes______]                   [Save] [Delete] |
-| [Pen][Eraser][Text]  color:(o)  size:[--o--]  [Undo]         |
-+-------------------------------------------+------------------+
-|                                           | Linked items     |
-|                                           | - Event: Lab 8   |
-|            (canvas)                       |   due (Nov 20)   |
-|                                           | - To-do: finish  |
-|                                           |   Lab 8          |
-|                                           | [+ Add link]     |
-+-------------------------------------------+------------------+
-
-CALENDAR
-+--------------------------------------------------------------+
-|  < November 2026 >                            [+ New event]  |
-+--------+--------+--------+--------+--------+--------+--------+
-|  Sun   |  Mon   |  Tue   |  Wed   |  Thu   |  Fri   |  Sat   |
-|   15   |   16   |   17   |   18   |   19   |   20   |   21   |
-|        | ...    |        |        |        |Lab 8   |        |
-|        |        |        |        |        | due    |        |
-+--------+--------+--------+--------+--------+--------+--------+
-```
+![alt text](images/IMG_7502.jpg)
+![alt text](images/IMG_7501.jpg)
 
 ---
 
