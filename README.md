@@ -41,7 +41,7 @@ Eldon Pouliot
 | **To-do list** (`/todos.html`) | List of to-dos with checkboxes and due dates, plus an add form | Add, edit, check off, delete, filter done/not done, open links |
 | **Calendar** (`/calendar.html`) | Month grid with events (and to-dos that have due dates) | Click a day to add an event, click an event to edit, delete, or link it |
 
-**Sketches** (draw these on paper and paste photos into the Moodle copy):
+**Sketches:**
 ![alt text](images/IMG_7502.jpg)
 ![alt text](images/IMG_7501.jpg)
 
